@@ -1,7 +1,7 @@
 package mayChallenge;
 
 // ***************************************LEETCODE SOLUTION***********************************************************
-//public class Solution extends VersionControl {
+// public class Solution extends VersionControl {
 //    public int firstBadVersion(int n) {
 //        int start = 1;
 //		int end = n;
@@ -17,11 +17,11 @@ package mayChallenge;
 //		} 
 //        	
 //		return start;
-//}
-//}
-//
+// }
+// }
+// **************************************************************************************************************
 
-
+// ***************************************DRAFT SOLUTION**********************************************************
 public class BadVersion {
 	
 	
